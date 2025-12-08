@@ -1,1 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Galería – CoffeeDream</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
 
+<header>
+    <h1>Galería – Productos</h1>
+    <a class="volver" href="index.html">Regresar al menú</a>
+</header>
+
+<section>
+    <h2>Nuestro catálogo de cafés</h2>
+
+    <table>
+        <tr>
+            <td><img src="img/img1.jpg" width="200"></td>
+            <td><img src="img/img2.jpg" width="200"></td>
+            <td><img src="img/img3.jpg" width="200"></td>
+        </tr>
+        <tr>
+            <td>Café Latte</td>
+            <td>Capuccino</td>
+            <td>Espresso</td>
+        </tr>
+    </table>
+</section>
+
+</body>
+</html>
